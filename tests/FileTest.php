@@ -1,6 +1,6 @@
 <?php
 
-require_once __DIR__.'/../src/File.php';
+require_once dirname(__FILE__).'/../src/File.php';
 
 class FileTest extends PHPUnit_Framework_TestCase
 {
